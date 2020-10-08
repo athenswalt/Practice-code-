@@ -1,4 +1,6 @@
 # Practice-code-
 I really don't know what goes in here....
 
-So far nothing :|
+
+1.test python
+2.junk code for C#
